@@ -1,0 +1,36 @@
+_repo: A-Yankee-Girl-at-Antietam_62026
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Little, Nat
+    gutenberg_agent_id: '51734'
+    url: http://www.gutenberg.org/2009/agents/51734
+creator:
+  author:
+    agent_name: Curtis, Alice Turner
+    alias: Turner, Alice
+    birthdate: 1860
+    deathdate: 1958
+    gutenberg_agent_id: '1841'
+    url: http://www.gutenberg.org/2009/agents/1841
+    wikipedia: https://en.wikipedia.org/wiki/Alice_Turner_Curtis
+description: ''
+gutenberg_issued: '2020-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62026'
+  lccn: '23013942'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'African Americans -- History -- To 1863 -- Juvenile fiction'
+- !lcsh 'Maryland -- History -- Juvenile fiction'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+- !lcsh 'Antietam, Battle of, Md., 1862 -- Juvenile fiction'
+- GITenberg
+title: A Yankee Girl at Antietam
+url: http://www.gutenberg.org/ebooks/62026
